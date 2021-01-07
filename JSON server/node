@@ -1,0 +1,3 @@
+1. kiểm tra node js đã cài đặt chưa: npm -v
+2. Tạo file package.json: npm init
+3. Cài đặt json-server: npm init json-server

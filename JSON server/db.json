@@ -1,0 +1,72 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone 6",
+      "price": "500"
+    },
+    {
+      "title": "hihi",
+      "author": "thuat",
+      "id": 2
+    },
+    {
+      "name": "hihi",
+      "price": "thuat",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "name": "ha vu thuat",
+      "price": "kkkkk",
+      "id": 5
+    },
+    {
+      "name": "đá",
+      "price": "ádsa",
+      "id": 6
+    },
+    {
+      "name": "sadsa",
+      "price": "ádsa",
+      "id": 7
+    },
+    {
+      "name": "áda",
+      "price": "sadsa",
+      "id": 8
+    },
+    {
+      "name": "áda",
+      "price": "sadad",
+      "id": 9
+    },
+    {
+      "name": "ádad",
+      "price": "sadadasw",
+      "id": 10
+    },
+    {
+      "name": "",
+      "price": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "price": "",
+      "id": 12
+    },
+    {
+      "name": "sada",
+      "price": "",
+      "id": 13
+    },
+    {
+      "name": "loan",
+      "price": "u khăn",
+      "id": 14
+    }
+  ]
+}
